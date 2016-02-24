@@ -19,6 +19,7 @@
         |   \---thumbnail           # A thumbnail image of the paper
         +---poster                  # The poster files
         |   \---imgs                # Images used on the poster    
+        |   \---logos               # University logos
         +---talk                    # The talk powerpoint files
         |   +---imgs                # The images for the talk
         |   \---videos              # The videos for the talk
