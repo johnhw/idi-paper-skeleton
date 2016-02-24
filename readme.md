@@ -2,6 +2,7 @@
 
         +---analysis                # All of the code to do the analysis should go here
         |   GenerateAllPlots.ipynb  # This file should generate *every* plot in the paper.
+        |   +---final_plots         # Plots *included in the paper*    
         |   +---plots               # The output plots
         |   \---plots_edited        # Any plots that have been manually edited
         +---code                    # The experimental software
