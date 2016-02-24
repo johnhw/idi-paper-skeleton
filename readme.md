@@ -11,7 +11,7 @@
         |       \---.ipynb_checkpoints
         +---ethics                  # The ethics application (template forms are provided)
         +---logs                    # Raw log files (i.e. not processed into datasets yet)
-        +---paper                   # The paper data
+        +---paper                   # The paper source files (e.g. LaTeX source)
         |   +---enlighten_version   # The version that was submitted to Enlighten
         |   +---final               # The final camera ready version
         |   +---imgs                # Any images to be included
